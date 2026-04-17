@@ -1,0 +1,88 @@
+{
+    "metadata": {
+        "catalog_type": "preset",
+        "catalog_value": "preset=500050456",
+        "normquery": "мужское пальто",
+        "search_result": {},
+        "name": "пальто мужское",
+        "rmi": "1",
+        "title": "пальто мужское",
+        "rs": 100,
+        "context": [
+            "uv_reranking"
+        ],
+        "qv": "AQEFAQIAASz6pb2wu66-MCWudCLPNFQwMatxMJAvvrEzK9GoQ658q9IumSgXK6EtQKlyr_AYoayprbSmXLCWqpqwqazuLZGrY7Bsql8yIi55L4KyLCrjrbIrjq7PsC0dligKofev4igGLSIxTiq_qVyr4KQ3MQKuRCqktCEnnq8tFB4vJasBpPEuuS2PKtuwrykjrrIm96f2qiogZK7vMESTIqRUqcYxYKmDLkSo7SizKpIrLioRBoctVqWILHcqQKnZrN8mEyhjKbsZFZmOHXSiZChqp5GtPi_8IFwrVy11qQAsxClsKeqshCGEJ3ujQRzApDEufS3pMKoo3rBjKnKqeSeQK6k",
+        "snippet": "sizes",
+        "kcl": "Mtw4FewoYJtLTZ1oVbOF4HZfvHQNCXsHSBGsr49gTRKcjAIo00z2EjuIeCOIJugM4t8",
+        "preset_normquery_map": {
+            "500050456": "мужское пальто"
+        }
+    },
+    "products": [
+        {
+            "id": 198198661,
+            "time1": 2,
+            "time2": 31,
+            "wh": 120762,
+            "dtype": 6597069766664,
+            "dist": 101,
+            "root": 179792402,
+            "kindId": 1,
+            "brand": "QUATRO",
+            "brandId": 543739,
+            "siteBrandId": 0,
+            "colors": [
+                {
+                    "name": "черный",
+                    "id": 0
+                }
+            ],
+            "subjectId": 170,
+            "subjectParentId": 1,
+            "name": "Пальто мужское",
+            "entity": "пальто",
+            "matchId": 112857509,
+            "supplier": "QUATRO",
+            "supplierId": 1315377,
+            "supplierRating": 4.8,
+            "supplierFlags": 12225,
+            "pics": 30,
+            "rating": 5,
+            "reviewRating": 4.8,
+            "nmReviewRating": 4.8,
+            "feedbacks": 2773,
+            "nmFeedbacks": 2773,
+            "panelPromoId": 1034530,
+            "volume": 249,
+            "weight": 1.61,
+            "viewFlags": 8724811984,
+            "sizes": [
+                {
+                    "name": "46-170",
+                    "origName": "170-176/46",
+                    "rank": 556147,
+                    "optionId": 321177880,
+                    "wh": 206348,
+                    "time1": 2,
+                    "time2": 33,
+                    "dtype": 6597069766664,
+                    "price": {
+                        "basic": 1397100,
+                        "product": 582600,
+                        "logistics": 0,
+                        "return": 0
+                    },
+                    "saleConditions": 134217728,
+                    "payload": "A7WX1+oRcUgtCUh1jLD4x87i14MEkV1QVe2N+Bjfo1FTBfmJC1zqvkoFFEZHgJPJuPPDmLJ+21FCMqMeB5v2Tm1jfNKYDCl1v9JwIWA+jiVUBZC6K0hdSOwOMsgbI7Sg+KuSHB6Va/L9YS55qf9bDUKnKFvMAfmEG3kh6pwM5Vgy1uR05aqdTMPUXimPFvK+NIiL79yVILmeW2GkAtKpS57RcaTDOpxICgMjP8bv0YtHB+ArIHVqUhdVdarZGpg"
+                }
+            ],
+            "totalQuantity": 53,
+            "logs": "NEE8OADaP1vJrr24HRrjk/03mimllso0rijSVuSB/AO0H/QeHgCXgSXAWfM25ylA/DoZvGxCCfVzDi5dyzk4oOGDbg",
+            "meta": {
+                "tokens": [],
+                "presetId": 500050456
+            }
+        }
+    ],
+    "total": 17364
+}
